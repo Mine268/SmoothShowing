@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\渐变消显\渐变消显\bin\Debug\渐变消显.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\渐变消显\渐变消显\bin\Debug\渐变消显.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\渐变消显\渐变消显\bin\Debug\渐变消显.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\渐变消显\渐变消显\obj\Debug\渐变消显.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\渐变消显\渐变消显\obj\Debug\渐变消显.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\渐变消显\渐变消显\obj\Debug\渐变消显.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\渐变消显\渐变消显\obj\Debug\渐变消显.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\渐变消显\渐变消显\obj\Debug\渐变消显.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\渐变消显\渐变消显\obj\Debug\渐变消显.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\渐变消显\渐变消显\obj\Debug\渐变消显.pdb
