@@ -35,7 +35,7 @@ namespace 渐变消显
             while (i <= 1.0)
             {
                 this.Opacity = Math.Sin((Math.PI / 2) * i);
-                i = i + 0.01;
+                i = i + 0.05;
                 System.Threading.Thread.Sleep(1);
             }
         }
@@ -47,7 +47,7 @@ namespace 渐变消显
             while (i <= 1.0)
             {
                 this.Opacity = Math.Cos((Math.PI / 2) * i);
-                i = i + 0.01;
+                i = i + 0.1;
                 System.Threading.Thread.Sleep(1);
             }
             this.Dispose();
